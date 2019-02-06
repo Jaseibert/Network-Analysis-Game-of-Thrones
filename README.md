@@ -11,4 +11,3 @@ which are used to determine the most important characters within each of the Gam
 
 `pandas`
 `networkx`
-`nxviz`
